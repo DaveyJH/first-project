@@ -35,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Here](https://replit.com/@DaveJH/BusinessCard-Explain#profile-card-component-main/jargon/README.md)
+- Solution URL: [Here](https://github.com/DaveyJH/first-project)
 - Live Site URL: [Here](https://BusinessCard-Explain.davejh.repl.co)
 
 ## My process
