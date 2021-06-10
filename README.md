@@ -1,3 +1,6 @@
+*Not a 'pretty' example, but a very early attempt with very little knowledge. Left as public to show progression and development*
+
+
 # Frontend Mentor - Profile card component solution
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -106,7 +109,7 @@ Really got to grips with the relationship between parent/child when using relati
 
 ### Continued development
 
-Better structure of content within the HTML document.  I think that would allow quicker styling and be far easier to work with!  Really enjoyed a first project but have a long way to go!
+**Better structure of content within the HTML document.**  I think that would allow quicker styling and be far easier to work with!  Really enjoyed a first project but have a long way to go!
 
 #### What is a favicon?!
 
@@ -115,7 +118,7 @@ Need to research this completely.
 ### Useful resources
 
 - https://codeinstitute.net/
-  - I am just starting a full stack developement diploma with these guuys.  So far, so good!
+  - I am just starting a full stack developement diploma with these guys.  So far, so good!
 
 
 ## Author
